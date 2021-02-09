@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ce711c27e4ba9764e80fd04b322bf052
+timeCreated: 1494602649
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Racer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3078effd7f048c54989013dba72750c0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
